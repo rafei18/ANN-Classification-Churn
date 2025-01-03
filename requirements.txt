@@ -4,3 +4,6 @@ pandas
 streamlit
 matplotlib
 scikit-learn
+keras
+tensorboard
+scikeras
